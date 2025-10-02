@@ -1,5 +1,5 @@
 
-🏠 House Price Prediction App
+******🏠 House Price Prediction App******
 
 This project is a Machine Learning web application built using Streamlit that predicts house prices based on various features like number of bedrooms, bathrooms, size, location, etc. It includes interactive data visualizations, supports a preloaded demo dataset, and also allows users to upload their own datasets for real-time predictions.
 
